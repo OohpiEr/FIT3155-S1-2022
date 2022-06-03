@@ -1,0 +1,8 @@
+Smallest Spanning Tree Weight = 6
+#List of edges in the smallest spanning tree:
+1 4 1
+1 5 1
+2 5 1
+2 6 1
+3 7 1
+5 7 1
